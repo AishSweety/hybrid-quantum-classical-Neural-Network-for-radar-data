@@ -3,7 +3,7 @@
 We want to classify drones based on RADAR signals using convolutional neural networks and using hybrid quantum neural networks. We also create a classical annd hybrid quantum model for binary classification for radar detection.
 
 ### Data Generation
-The dataset of STFT spectrograms are generated based on the Martin-Mulgrew model [1] in ``` DattaGeneration.ipynb ```. 
+The dataset of STFT spectrograms are generated based on the Martin-Mulgrew model [1] in ``` DataGeneration.ipynb ```. 
 
 
 
