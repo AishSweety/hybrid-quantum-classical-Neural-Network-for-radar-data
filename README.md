@@ -1,6 +1,6 @@
 # Hybrid Quantum Classical Neural Network for radar data
 
-We want to classify drones based on RADAR signals using convolutional neural networks and using hybrid quantum neural networks. We also create a classical annd hybrid quantum model for binary classification for radar detection.
+We want to classify drones based on RADAR signals using convolutional neural networks and using hybrid quantum neural networks. We also create a classical annd hybrid quantum model for binary classification for radar detection. The preprint of this work is available in https://arxiv.org/abs/2403.02080.  
 
 ### Data Generation
 The dataset of STFT spectrograms of drone signals are generated based on the Martin-Mulgrew model [1] in ``` DataGeneration.ipynb ```. 
